@@ -7,6 +7,6 @@ Tous les personnages, histoires et concepts appartiennent à leurs créateurs re
 ## Changelog
 ### 05 12 2024
 Ajout d'une description sur [README](README.md)
-Ajout d'une section lore, épisode et personnage.
+Ajout d'une section lore, épisode et personnage
 ### 04 12 2024
-Initial commit [/archives-du-grenier](https://github.com/Lohkinap/archives-du-grenier).
+Initial commit [/archives-du-grenier](https://github.com/Lohkinap/archives-du-grenier)
