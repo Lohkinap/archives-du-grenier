@@ -6,8 +6,8 @@ Ce projet n’a aucune affiliation officielle. L'objectif est de documenter l'un
 Tous les personnages, histoires et concepts appartiennent à leurs créateurs respectifs.
 ## Changelog
 ### 05 12 2024
-Ajout de l'épisode Young Indiana Jones - Megadrive
-Ajout d'une description sur [README](README.md)
-Ajout d'une section lore, épisode et personnage
+Ajout de l'épisode Young Indiana Jones - Megadrive <br />
+Ajout d'une description sur [README](README.md) <br />
+Ajout d'une section lore, épisode et personnage <br />
 ### 04 12 2024
 Initial commit [/archives-du-grenier](https://github.com/Lohkinap/archives-du-grenier)
