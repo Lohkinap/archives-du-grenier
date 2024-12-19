@@ -10,4 +10,4 @@ Ajout de l'épisode Young Indiana Jones - Megadrive <br />
 Ajout d'une description sur [README](README.md) <br />
 Ajout d'une section lore, épisode et personnage <br />
 ### 04 12 2024
-Initial commit [/archives-du-grenier](https://github.com/Lohkinap/archives-du-grenier)
+Initial commit [/archives-du-grenier](https://github.com/Lohkinap/archives-du-grenier) <br />
