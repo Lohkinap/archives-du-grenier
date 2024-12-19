@@ -6,8 +6,10 @@ Ce projet n’a aucune affiliation officielle. L'objectif est de documenter l'un
 
 Tous les personnages, histoires et concepts appartiennent à leurs créateurs respectifs.
 ## Changelog
+### 19 12 2024
+- Ajout de l'épisode [040 Tintin au Tibet](040%20Tintin%20au%20Tibet.md)
+- Refactor de [README.md](README.md)
 ### 05 12 2024
-- Ajout d'une description sur [README](README.md)
-- Ajout d'une section lore, épisode et personnage
+- Ajout de [README.md](README.md)
 ### 04 12 2024
 - Initial commit [/archives-du-grenier](https://github.com/Lohkinap/archives-du-grenier)
