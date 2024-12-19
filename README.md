@@ -1,10 +1,8 @@
 # Archives du Grenier
 ## Description
-Repository public de `archives-du-grenier/documentation/lore` pour les Archives du Grenier.
-## Note
-Ce projet n’a aucune affiliation officielle. L'objectif est de documenter l'univers et le lore de la série web _[Joueur du Grenier](https://www.youtube.com/@joueurdugrenier)_.
-
-Tous les personnages, histoires et concepts appartiennent à leurs créateurs respectifs.
+Repository public de `archives-du-grenier/documentation/lore`.
+## Qui est-ce ?
+Projet indépendant et non affilié, visant à centraliser le lore et les anecdotes liées à la chaîne [Joueur du Grenier](https://www.youtube.com/user/joueurdugrenier) et à ses vidéos.
 ## Changelog
 ### 19 12 2024
 - Ajout de l'épisode [040 Tintin au Tibet](040%20Tintin%20au%20Tibet.md)
